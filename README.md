@@ -1,1 +1,1 @@
-##Simple terminal slot machine game written in JS using node.JS
+#Simple terminal slot machine game written in JS using node.JS
